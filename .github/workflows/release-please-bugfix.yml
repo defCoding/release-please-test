@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - bugfix
+      - bugfix*
   workflow_dispatch:
 name: release-please
 jobs:
@@ -12,4 +12,4 @@ jobs:
         with:
           release-type: node
           package-name: dummy
-          default-branch: bugfix
+          default-branch: ${{ github.ref_name }}
