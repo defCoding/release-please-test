@@ -1,6 +1,25 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.1.0](https://github.com/defCoding/release-please-test/compare/v1.0.1...v1.1.0) (2023-01-17)
+
+
+### Features
+
+* added a thing ([b604775](https://github.com/defCoding/release-please-test/commit/b60477506e4476b0f23dff5ecc0fa24d1a2950d8))
+* added things ([a815606](https://github.com/defCoding/release-please-test/commit/a81560603334513d1891e7ee888a40d37610ea16))
+* just a test ([004134d](https://github.com/defCoding/release-please-test/commit/004134d1502d5af9c1f03898409244a23753a93f))
+* just another test ([bb20f71](https://github.com/defCoding/release-please-test/commit/bb20f71d8d1f46eab812e36dc962abcd7e079793))
+* more logs ([a7e1222](https://github.com/defCoding/release-please-test/commit/a7e12229ea2329a0d94b2a8525f44a9bdcad8f13))
+* some feats ([543a6ca](https://github.com/defCoding/release-please-test/commit/543a6ca3687d40afbd7e3e3657545c633231e12b))
+* this was a thing ([0a7a3d4](https://github.com/defCoding/release-please-test/commit/0a7a3d424999caec56d5e2f202fcf1acd6ee7ae0))
+
+
+### Bug Fixes
+
+* added a fix ([e8d8b3c](https://github.com/defCoding/release-please-test/commit/e8d8b3c9756d938f0f4a2f11d65db828f5fc4dbe))
+* oops ([7ee5b3e](https://github.com/defCoding/release-please-test/commit/7ee5b3edd0dab19857530a403f0f02b86ec4c196))
+
 ## [1.0.1](https://github.com/defCoding/release-please-test/compare/v1.0.0...v1.0.1) (2023-01-17)
 =======
 ## [1.1.0](https://github.com/defCoding/release-please-test/compare/v1.0.0...v1.1.0) (2023-01-17)
