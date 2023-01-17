@@ -1,6 +1,10 @@
 {
   "name": "dummy",
+<<<<<<< HEAD
   "version": "1.0.1",
+=======
+  "version": "1.1.0",
+>>>>>>> b194c11 (chore(staging): release 1.1.0)
   "description": "This is a dummy package!",
   "main": "index.js",
   "scripts": {
