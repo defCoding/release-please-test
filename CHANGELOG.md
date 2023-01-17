@@ -1,18 +1,16 @@
 # Changelog
 
-<<<<<<< HEAD
 ## [1.3.0](https://github.com/defCoding/release-please-test/compare/v1.2.0...v1.3.0) (2023-01-17)
-
 
 ### Features
 
 * feat after bug ([b60e8b4](https://github.com/defCoding/release-please-test/commit/b60e8b408ac76a7f6163470bc277c1fc7bb8f2e3))
 * just one please just one ([aebdd28](https://github.com/defCoding/release-please-test/commit/aebdd280ea30478f6e80f87e7a47fe2130d59097))
 
-
+## [1.2.1](https://github.com/defCoding/release-please-test/compare/v1.2.0...v1.2.1) (2023-01-17)
 ### Bug Fixes
 
-* just a fix ([178d6b9](https://github.com/defCoding/release-please-test/commit/178d6b9277ce5552b0151f7d2537c82724884547))
+* just a fix ([1e44ec0](https://github.com/defCoding/release-please-test/commit/1e44ec0dc43d1be43911d5e53a9529c86ec57858))
 
 ## [1.2.0](https://github.com/defCoding/release-please-test/compare/v1.1.0...v1.2.0) (2023-01-17)
 
