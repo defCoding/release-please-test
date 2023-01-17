@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.2.1](https://github.com/defCoding/release-please-test/compare/v1.2.0...v1.2.1) (2023-01-17)
+
+
+### Bug Fixes
+
+* just a fix ([1e44ec0](https://github.com/defCoding/release-please-test/commit/1e44ec0dc43d1be43911d5e53a9529c86ec57858))
+
 ## [1.2.0](https://github.com/defCoding/release-please-test/compare/v1.1.0...v1.2.0) (2023-01-17)
 
 
