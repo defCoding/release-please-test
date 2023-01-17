@@ -1,6 +1,26 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.2.0](https://github.com/defCoding/release-please-test/compare/v1.1.0...v1.2.0) (2023-01-17)
+
+
+### Features
+
+* feature thing ([30e5dcc](https://github.com/defCoding/release-please-test/commit/30e5dcc4e3410f8587b3ac42ae91b4b8aa4dd7d1))
+* first commit ([25d0fff](https://github.com/defCoding/release-please-test/commit/25d0fffd9c4639b175e1a4f0b54c99f305c6b687))
+* just a test ([004134d](https://github.com/defCoding/release-please-test/commit/004134d1502d5af9c1f03898409244a23753a93f))
+* just another test ([bb20f71](https://github.com/defCoding/release-please-test/commit/bb20f71d8d1f46eab812e36dc962abcd7e079793))
+* more logs ([a7e1222](https://github.com/defCoding/release-please-test/commit/a7e12229ea2329a0d94b2a8525f44a9bdcad8f13))
+* please just work ([0e5a385](https://github.com/defCoding/release-please-test/commit/0e5a3851ce8e157cbf211815e1749b2ae0939341))
+* some feats ([543a6ca](https://github.com/defCoding/release-please-test/commit/543a6ca3687d40afbd7e3e3657545c633231e12b))
+* this was a thing ([0a7a3d4](https://github.com/defCoding/release-please-test/commit/0a7a3d424999caec56d5e2f202fcf1acd6ee7ae0))
+
+
+### Bug Fixes
+
+* hotfix quick ([8c82428](https://github.com/defCoding/release-please-test/commit/8c824280a328a75a2438d069b71ac705c5be9916))
+* this is a fix ([6093371](https://github.com/defCoding/release-please-test/commit/6093371e1191641c32d0fdac0909fc5c9d037535))
+
 ## [1.1.0](https://github.com/defCoding/release-please-test/compare/v1.0.1...v1.1.0) (2023-01-17)
 
 
