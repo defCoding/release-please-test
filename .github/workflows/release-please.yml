@@ -13,3 +13,14 @@ jobs:
           release-type: node
           package-name: dummy
           default-branch: staging
+  update-bugfix:
+    needs: release-please
+    runs-on: ubuntu-latest
+    if: ${{ needs.release-please.output.release_created }}
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          git checkout bugfix
+          git pull
+          git rebase staging
+          git push
