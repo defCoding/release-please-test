@@ -16,7 +16,7 @@ jobs:
   after:
     needs: release-please
     runs-on: ubuntu-latest
-    if: ${{ needs.release-please.outputs.release_created }}
+    if: ${{ needs.release-please.outputs.releases_created }}
     steps:
       - uses: actions/checkout@v3
       - name: Upload Release
