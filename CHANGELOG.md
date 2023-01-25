@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/defCoding/release-please-test/compare/v1.4.0...v1.5.0) (2023-01-25)
+
+
+### Features
+
+* final update ([5101eca](https://github.com/defCoding/release-please-test/commit/5101eca879f1d35376f75aa60cc91d4f2080189c))
+* update release-please ([5596e5c](https://github.com/defCoding/release-please-test/commit/5596e5c5905f1b3a719a0b27718d0bb53b6849a4))
+
 ## [1.4.0](https://github.com/defCoding/release-please-test/compare/v1.3.0...v1.4.0) (2023-01-25)
 
 
