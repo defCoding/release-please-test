@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.0](https://github.com/defCoding/release-please-test/compare/v1.5.0...v1.6.0) (2023-01-25)
+
+
+### Features
+
+* i lied even more ([92b0b16](https://github.com/defCoding/release-please-test/commit/92b0b16292fb97d9f6454bbf306ab11bc77fa25d))
+* sike i lied ([6bdf72b](https://github.com/defCoding/release-please-test/commit/6bdf72b3abb8d11ed4f9bdc0f30b7e6ff32eb3ae))
+
 ## [1.5.0](https://github.com/defCoding/release-please-test/compare/v1.4.0...v1.5.0) (2023-01-25)
 
 
