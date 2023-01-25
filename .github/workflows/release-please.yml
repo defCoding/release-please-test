@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       releases_created: ${{ steps.release-please.outputs.release_created }}
+      releases_created: ${{ steps.release-please.outputs.tag_name }}
     steps:
       - uses: google-github-actions/release-please-action@v3
         id: release-please
