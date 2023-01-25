@@ -8,8 +8,8 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     outputs:
-      releases_created: ${{ steps.release-please.outputs.release_created }}
-      releases_created: ${{ steps.release-please.outputs.tag_name }}
+      release_created: ${{ steps.release-please.outputs.release_created }}
+      tag_name: ${{ steps.release-please.outputs.tag_name }}
     steps:
       - uses: google-github-actions/release-please-action@v3
         id: release-please
@@ -20,7 +20,7 @@ jobs:
   after:
     needs: release-please
     runs-on: ubuntu-latest
-    if: ${{ needs.release-please.outputs.releases_created }}
+    if: ${{ needs.release-please.outputs.release_created }}
     steps:
       - uses: actions/checkout@v3
       - name: Upload Release
