@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - staging
+      - main
   workflow_dispatch:
 name: release-please
 jobs:
@@ -12,4 +12,16 @@ jobs:
         with:
           release-type: node
           package-name: dummy
-          default-branch: staging
+          default-branch: main
+  after:
+    needs: release-please
+    runs-on: ubuntu-latest
+    if: ${{ needs.release-please.outputs.release_created }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Upload Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ needs.release-please.outputs.tag_name }}
+          files: index.js
+          fail_on_unmatched_files: true
